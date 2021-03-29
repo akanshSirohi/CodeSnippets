@@ -1,6 +1,9 @@
 # Storage
-Simple JavaScript localstorage helper function.
+Language: ```JavaScript```
+<br /><br />
 
+## Info
+Simple JavaScript localstorage helper function.
 Set and get objects or string to browser's localstorage
 
 - If only key is passed then it grab data from localstorage.
